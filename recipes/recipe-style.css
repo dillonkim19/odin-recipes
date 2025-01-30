@@ -1,0 +1,33 @@
+/* recipe-style.css */
+
+* {
+    background-color: white;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: auto;
+}
+
+.intro {
+    font-size: 20px;
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    font-size: 30px;
+}
+
+li {
+    text-align: left;
+    font-size: 20px;
+}
